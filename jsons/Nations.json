@@ -22,8 +22,8 @@
 
 		"tradeRequest": "IDK",
 
-		"outerColor": [255, 255, 0],
-		"innerColor": [0, 0, 200],
+		"outerColor": [0, 0, 200],
+		"innerColor": [255, 255, 0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "[Hellenic League] (Macedonia)",
 		"uniques": ["Great General provides double combat bonus", "[-50]% City-State Influence degradation", "Free [Great General] appears <upon discovering [Bronze Working] technology>", "[Great General] is earned [5]% faster", "[+1] Movement <for [Great General] units>", "City-State Influence recovers at twice the normal rate", "City-State territory always counts as friendly territory"],
