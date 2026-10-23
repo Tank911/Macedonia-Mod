@@ -4,7 +4,7 @@ size: 1048, 1048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-NationIcons/
+NationIcons/Macedonia
   rotate: false
   xy: 0, 0
   size: 1048, 1048
